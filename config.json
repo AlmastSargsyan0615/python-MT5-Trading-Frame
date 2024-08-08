@@ -1,0 +1,14 @@
+{
+    "login": 85075636,
+    "password": "*4PbQzPi",
+    "server": "MetaQuotes-Demo",
+    "symbol": "EURUSD",
+    "sl_distance": 0.0010,
+    "tp_distance": 0.0020,
+    "deviation": 10,
+    "magic": 123456,
+    "buy_threshold": 1.0930,
+    "sell_threshold": 1.0927,
+    "start_time": "08:04:00", 
+    "end_time": "08:05:00"   
+}
